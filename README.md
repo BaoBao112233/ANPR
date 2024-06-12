@@ -1,4 +1,5 @@
 # ANPR
+Tải video test tại đây: https://drive.google.com/drive/folders/1uxiXwdpmS3H4AOBaHYhRcDVhroaB1hPW?usp=sharing
 
 Bước 1: Tạo folder input_data/video
 -    Đây là nơi đưa các video thử nghiệm vào trong mô hình
